@@ -23,3 +23,14 @@ a.home {
 h2 {
     text-align:center;
 }
+
+p {
+    text-indent:1em;
+}
+
+p.sites-about {
+    border: 3px solid;
+    border-color:#111;
+    padding:10px;
+    border-radius:4px;
+}
